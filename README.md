@@ -11,4 +11,3 @@ gulp watch
 
 ```
 # starter-css-var-minimal
-# starter-css-var-minimal
